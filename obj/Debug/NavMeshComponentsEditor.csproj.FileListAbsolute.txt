@@ -1,0 +1,2 @@
+D:\UnityProjects\7TamTask\obj\Debug\NavMeshComponentsEditor.csprojAssemblyReference.cache
+D:\UnityProjects\7TamTask\obj\Debug\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache
